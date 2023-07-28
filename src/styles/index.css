@@ -1,3 +1,15 @@
+.row{
+    background-color: #666;
+    height: 110px;
+    
+}
+
+.col{
+    background-color: #706e6e;
+    height: 80px;
+    font-weight: 300;
+}
+
 
 /* 
 
